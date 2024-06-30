@@ -1,5 +1,5 @@
 # TuneCrypt
-Encrypt any data piece with RSA into playable WAV files.
+Encrypt any data piece with RSA into playable WAV files and decrypt them back to their original state whenever you want.
 
 Requirements:
 - Python 3 or newer versions
